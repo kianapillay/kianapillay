@@ -10,7 +10,7 @@ I enjoy solving problems, learning new technologies, and collaborating on meanin
 
 ---
 
-## Tech Stack ⚙️
+## Tech Stack </>
 
 ### Languages 💻
 - Java  
