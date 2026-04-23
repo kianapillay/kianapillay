@@ -38,8 +38,6 @@ A mobile application that identifies plants and provides users with care informa
 ⭐ **Key Features:** Plant identification, care tips, and a simple user-friendly interface  
 ⭐ **Focus:** Making plant care more accessible and interactive through technology  
 
----
-
 ### Customer Payment Portal 💳
 A system designed to manage and streamline customer payments through a secure and efficient interface.
 
@@ -47,16 +45,12 @@ A system designed to manage and streamline customer payments through a secure an
 ⭐ **Key Features:** Secure payment handling, user account management, and transaction tracking  
 ⭐ **Focus:** Improving efficiency and reliability in payment processing systems  
 
----
-
 ### Municipal Management App 🏙️
 A system built to improve the management of municipal services using structured data handling and efficient processing.
 
 ⭐ **Tech Stack:** Java, Data Structures, SQL  
 ⭐ **Key Features:** Service request handling, data organisation, and process optimisation  
 ⭐ **Focus:** Demonstrating strong understanding of algorithms and system design principles  
-
----
 
 ## About Me 🎧
 When I’m not coding, you’ll find me hiking, listening to music, or exploring new ideas through tech blogs and courses. I also enjoy getting lost in a thought-provoking book.
