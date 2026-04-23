@@ -2,7 +2,7 @@
 
 ## Graduate / Junior Software Developer 👩‍💻
 
-I’m a Computer Science graduate and aspiring Software Developer with a passion for building practical, real-world applications.
+I’m a Computer Science graduate and a aspiring Software Developer with a passion for building practical, real-world applications.
 
 I’m particularly interested in **Artificial Intelligence, Cloud Computing, and Cybersecurity**, and I’m continuously exploring how these areas can be used to create scalable, secure, and impactful solutions.
 
