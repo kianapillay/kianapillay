@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Graduate / Junior Software Developer 👩‍💻
+## Junior Software Developer 👩‍💻
 
 I’m a Computer Science graduate and a aspiring Software Developer with a passion for building practical, real-world applications.
 
